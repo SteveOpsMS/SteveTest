@@ -11,8 +11,8 @@ pool:
 
 resources:
  repositories:
-   - repository: A
-     name: t1
+   - repository: B
+     name: t2
      type: git
      ref: main
      trigger: 
