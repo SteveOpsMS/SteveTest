@@ -133,7 +133,6 @@ resources:
       - main 
 
 steps:
-- checkout: Self
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
