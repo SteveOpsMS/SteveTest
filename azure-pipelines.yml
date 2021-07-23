@@ -17,7 +17,120 @@ resources:
      ref: main
      trigger: 
       - main
-   
+   - repository: C
+     name: t3
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: D
+     name: t4
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: E
+     name: t5
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: F
+     name: t6
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: G
+     name: t7
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: H
+     name: t8
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: I
+     name: t9
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: J
+     name: t10
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: k
+     name: t11
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: L
+     name: t12
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: M
+     name: t13
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: N
+     name: t14
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: O
+     name: t15
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: P
+     name: t16
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: Q
+     name: t17
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: R
+     name: t18
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: S
+     name: t19
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: T
+     name: t20
+     type: git
+     ref: main
+     trigger: 
+      - main
+   - repository: u
+     name: t21
+     type: git
+     ref: main
+     trigger: 
+      - main 
 
 steps:
 - script: echo Hello, world!
